@@ -1,2 +1,5 @@
 /data
 /venv
+/preprocess/__pycache__
+kaggle.json
+screenlog.0
